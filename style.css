@@ -130,7 +130,7 @@ margin-right: 20px;
 }
 /******************* FIN MODIFICATION SECTION 2, SECTION CONTACT**********************/
 /********************MEDIA QUERIES****************************/
-@media screen and (max-width:1000px){
+@media screen and (max-width:1150px){
     #header nav{
         display: none;
 }}
